@@ -9,4 +9,8 @@ package com.ld.studio.usermanager.facade;
  * @version test: Test, v0.1 2020年04月21日 16:12 zhangwb15932 Exp $
  */
 public class Test {
+
+    public static void main(String[] args) {
+
+    }
 }
